@@ -9,7 +9,7 @@ Working in a team of 4 people to create a basic RoR app which shows all we learn
 - Show that you are able to use RoR to make an app
 - Use an one to many relationship
 
-#####the app
+####the app
 We (laura, Zulema, Josha and I) decided to make an app which resembles Uber only we are the owners of the cars.
 The cars have a fixed destination. You can select the desired car and book the car. To do that you can make a simple profile.
 
