@@ -14,5 +14,9 @@ We (laura, Zulema, Josha and I) decided to make an app which resembles Uber only
 The cars have a fixed destination. You can select the desired car and book the car. To do that you can make a simple profile.
 
 **Cars index page**
-![Image of Cards_index]
+![Image of Cars_index]
 (http://res.cloudinary.com/debyt5msz/image/upload/v1479892288/Schermafbeelding_2016-11-23_om_10.10.39_n9nobk.png)
+
+**Cars Show page with subscribed passenger**
+![Image of Cars_show]
+(http://res.cloudinary.com/debyt5msz/image/upload/v1479892816/Schermafbeelding_2016-11-23_om_10.19.48_n7sdmw.png)
